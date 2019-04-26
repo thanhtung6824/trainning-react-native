@@ -7,10 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.4",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
+    "native-base": "^2.12.1",
     "react": "16.8.3",
     "react-native": "0.59.5"
   },
